@@ -91,7 +91,7 @@ i{
 }
 .header-buttons a:hover{
   text-decoration: none;
-  color: #50d1c0;
+  color: #8B2635;
   background-color: #fff;
   box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
 }
@@ -183,7 +183,7 @@ i{
   left: 0;
   right: 0;
   z-index: -1;
-  background: linear-gradient(160deg, #16c9f6 55%, #fff 0%);
+  background: linear-gradient(160deg, #8B2635 55%, #fff 0%);
 }
 .money{
   font-size: 40px;
@@ -220,7 +220,7 @@ i{
   margin: 0 5px;
   padding: 12px 35px;
   outline: none;
-  color: #50d1c0;
+  color: #8B2635;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.4;
@@ -229,7 +229,7 @@ i{
 .card:hover .card-footer a{
   text-decoration: none;
   color: #fff;
-  background-color: #50d1c0;
+  background-color: #8B2635;
   box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
 }
 .card:hover{
@@ -237,7 +237,7 @@ i{
   box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
 }
 .card:hover .card-header, .card:hover .money{
-  color: #50d1c0;
+  color: #8B2635;
 }
 .card-second{
   transform: translateY(-20px);
@@ -272,7 +272,7 @@ i{
   bottom: -60px!important;
 }
 .carousel-indicators li{
-  background-color: #16c9f6!important;
+  background-color: #2C363F!important;
 }
 .box a{
   position: relative;
@@ -288,7 +288,7 @@ i{
   font-family: FontAwesome;
   width: 40px;
   height: 40px;
-  background: linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
+  background: linear-gradient(to right, #8B2635 0%, #2C363F 0%, #000000 100%);
   color: #fff;
   position: absolute;
   top: 120%;
@@ -329,7 +329,7 @@ i{
   left: 0;
   right: 0;
   z-index: -1;
-  background: linear-gradient(330deg, #16c9f6 55%, #fff 0%);
+  background: linear-gradient(330deg, #2C363F 55%, #fff 0%);
 }
 .form-button button{
   border: 1px solid #50c1d0;
@@ -337,7 +337,7 @@ i{
   margin: 0 5px;
   padding: 12px 35px;
   outline: none;
-  color: #50d1c0;
+  color: #8B2635;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.4;
@@ -346,7 +346,7 @@ i{
 }
 form:hover .form-button button{
   background: #fff;
-  color: #50d1c0;
+  color: #8B2635;
   box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
 }
 ::placeholder{
@@ -368,7 +368,7 @@ form:hover .form-button button{
 }
 .input-group-text{
   color: #fff!important;
-  background: #5bc0de!important;
+  background: #8B2635!important;
   border-radius: 0 100px 100px 0!important;
   min-width: 130px;
   min-height: 45px;
