@@ -386,7 +386,7 @@ form:hover .form-button button{
   width: 100%;
   height: auto;
   padding: 70px 0 20px 0;
-  background: #00abff;
+  background: #8B2635;
   position: relative;
 }
 .footersection p{
@@ -418,12 +418,12 @@ form:hover .form-button button{
   z-index: 10;
   border: none;
   color: #fff;
-  background: #00abff;
+  background: #8B2635;
   padding: 10px;
   border-radius: 10px;
 }
 #myBtn:hover{
-  background: #606060;
+  background: #2C363F;
 }
 /* *********************  footer ends ****************************** */
 
