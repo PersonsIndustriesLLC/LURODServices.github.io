@@ -19,7 +19,7 @@ p{
   word-spacing: 4px;
 }
 i{
-  color: #2fccd0;
+  color: #8B2635;
 }
 
 /* XXXXXXXXXXXXXXXXXXXXX common style ends here XXXXXXXXXXXXXXXXXXX */
@@ -41,7 +41,7 @@ i{
   right: 0;
   opacity: 0.4;
   z-index: -1;
-  background: linear-gradient(to right,  #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
+  background: linear-gradient(to right,  #8B2635 0%, #2C363F 0%, #000000 100%);
 }
 .navbar::before{
   content: "";
@@ -52,7 +52,9 @@ i{
   right: 0;
   opacity: 0.4;
   z-index: -1;
-  background: linear-gradient(to right,  #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
+  background: linear-gradient(to right,  #8B2635 0%, #2C363F 0%, #000000 100%);
+}
+.navbar::before{
 }
 .nav-item a{
   color: #fff!important;
